@@ -1,3 +1,7 @@
+#
+```
+https://blog.techbridge.cc/2017/12/23/linux-commnd-line-tutorial/
+```
 # 20基礎指令(一小時學完)
 ```
 
