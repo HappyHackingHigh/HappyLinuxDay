@@ -8,9 +8,20 @@ https://blog.techbridge.cc/2017/12/23/linux-commnd-line-tutorial/
 
 網路常用command
 wget
+netstat
 
+檔案壓縮與解壓縮:tar
+
+
+檔案權限與檔案權限設定
+chmod
+
+
+strings
 ```
-
+```
+https://github.com/HappyHackingHigh/CTF/blob/master/week2_linux_ctf.md
+```
 # 30中階指令(一小時學完)
 ```
 
@@ -19,8 +30,7 @@ wget
 gedit
 
 
-檔案權限與檔案權限設定
-chmod
+
 
 系統管理
 sudo 
